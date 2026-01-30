@@ -1,0 +1,7 @@
+total 20
+drwxr-xr-x 3 bblackbean bblackbean 4096 Jan 30 10:56 .
+drwxr-xr-x 3 bblackbean bblackbean 4096 Jan 30 10:41 ..
+-rw-r--r-- 1 bblackbean bblackbean  514 Jan 30 10:47 01_system_info.txt
+-rw-r--r-- 1 bblackbean bblackbean   17 Jan 30 10:55 02_cat_a.txt
+-rw-r--r-- 1 bblackbean bblackbean    0 Jan 30 10:56 02_ls_al.txt
+drwxr-xr-x 2 bblackbean bblackbean 4096 Jan 30 10:55 playground

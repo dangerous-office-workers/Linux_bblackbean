@@ -1,0 +1,9 @@
+.
+├── 01_system_info.txt
+├── 02_cat_a.txt
+├── 02_ls_al.txt
+├── 02_tree.txt
+└── playground
+    └── a.txt
+
+1 directory, 5 files

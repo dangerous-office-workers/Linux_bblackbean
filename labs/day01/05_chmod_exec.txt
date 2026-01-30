@@ -1,0 +1,8 @@
+== before ==
+-rwxr-xr-x 1 bblackbean bblackbean 40 Jan 30 15:12 scripts/day01/hello.sh
+
+== run ==
+Hello World!
+
+== after ==
+-rwxr-xr-x 1 bblackbean bblackbean 40 Jan 30 15:12 scripts/day01/hello.sh

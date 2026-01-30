@@ -1,0 +1,5 @@
+total 16
+drwxr-xr-x 2 bblackbean bblackbean 4096 Jan 30 11:30 .
+drwxr-xr-x 3 bblackbean bblackbean 4096 Jan 30 10:41 ..
+-rw-r--r-- 1 bblackbean bblackbean  120 Jan 30 10:43 01_terminal_basics.md
+-rw-r--r-- 1 bblackbean bblackbean  365 Jan 30 11:30 02_filesystem_basics.md
