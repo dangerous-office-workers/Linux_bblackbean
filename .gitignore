@@ -1,0 +1,18 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vim / temp
+*.swp
+*~
+*.tmp
+
+# Logs
+*.log
+
+# Secrets (env 폴더에 넣을 수 있는 민감정보 대비)
+.env
+*.pem
+*.key
