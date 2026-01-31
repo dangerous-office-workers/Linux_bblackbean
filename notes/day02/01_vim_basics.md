@@ -9,7 +9,7 @@ hi linux
 hi vim
 today is day2
 today is day2
-## Servival commands
+## Survival commands
 - :q!    quit without saving
 - :wq    save and quit
 - ZZ     save and quit (normal mode)
