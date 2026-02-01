@@ -1,0 +1,10 @@
+== start ==
+started sleep pid=378
+
+== ps check ==
+bblackb+   378  0.0  0.0   3212  1792 pts/0    S    08:48   0:00 sleep 300
+
+== kill ==
+
+== ps after ==
+sleep not found
