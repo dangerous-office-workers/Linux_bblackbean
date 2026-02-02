@@ -16,3 +16,6 @@ Thumbs.db
 .env
 *.pem
 *.key
+*.secret
+**/.ssh/
+private_labs

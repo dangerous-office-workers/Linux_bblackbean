@@ -1,0 +1,8 @@
+USER     COMMAND
+root     init(Ubuntu-22.
+root     init
+root     SessionLeader
+root     Relay(13)
+bblackb+ bash
+bblackb+ ps
+bblackb+ head
