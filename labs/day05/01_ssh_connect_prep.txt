@@ -1,0 +1,12 @@
+== ping ==
+PING 192.168.31.128 (192.168.31.128) 56(84) bytes of data.
+64 bytes from 192.168.31.128: icmp_seq=1 ttl=63 time=1.19 ms
+64 bytes from 192.168.31.128: icmp_seq=2 ttl=63 time=1.51 ms
+64 bytes from 192.168.31.128: icmp_seq=3 ttl=63 time=1.32 ms
+
+--- 192.168.31.128 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2185ms
+rtt min/avg/max/mdev = 1.194/1.340/1.511/0.130 ms
+
+== ssh test (manual) ==
+ssh bblacbean@192.168.31.128
