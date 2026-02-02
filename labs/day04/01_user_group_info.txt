@@ -1,0 +1,9 @@
+== whoami ==
+bblackbean
+
+== id ==
+uid=1000(bblackbean) gid=1000(bblackbean) groups=1000(bblackbean),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),117(netdev)
+
+== groups ==
+bblackbean adm dialout cdrom floppy sudo audio dip video plugdev netdev
+

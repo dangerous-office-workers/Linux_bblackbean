@@ -1,0 +1,1 @@
+-rw-r--r-- 1 bblackbean bblackbean 11 Feb  2 09:46 labs/day04/owner_test.txt
