@@ -1,0 +1,1 @@
+drwx------ 2 bblackbean bblackbean 4096 Feb  2 14:14 labs/day04/umask_dir_077
