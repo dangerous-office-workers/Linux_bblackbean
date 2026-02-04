@@ -1,0 +1,4 @@
+2026-02-03 09:01:15 ERROR api  path=/todos method=POST status=500 ms=31 msg="db timeout"
+2026-02-03 09:02:01 ERROR api  path=/todos/2 method=DELETE status=403 ms=5 msg="forbidden"
+2026-02-03 09:02:10 ERROR batch job=backup result=fail ms=1300 msg="disk full"
+2026-02-03 09:03:35 ERROR api  path=/health method=GET status=503 ms=1 msg="service unavailable"
