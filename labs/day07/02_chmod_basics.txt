@@ -1,0 +1,5 @@
+== chmod u+x ==
+-rwxr----- 1 bblackbean bblackbean 6 Feb  4 08:30 file.txt
+
+== chmod 640 ==
+-rw-r----- 1 bblackbean bblackbean 6 Feb  4 08:30 file.txt

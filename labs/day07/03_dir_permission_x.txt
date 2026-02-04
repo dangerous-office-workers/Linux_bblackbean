@@ -1,0 +1,9 @@
+== remove x from dir ==
+drw-r--r-- 2 bblackbean bblackbean 4096 Feb  4 08:30 dir
+
+== try cd dir ==
+-bash: cd: dir: Permission denied
+cd 실패(정상) : Permission Denied
+
+== restore 755 ==
+drwxr-xr-x 2 bblackbean bblackbean 4096 Feb  4 08:30 dir
