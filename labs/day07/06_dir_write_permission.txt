@@ -1,0 +1,11 @@
+== before ==
+drwxr-xr-x 2 bblackbean bblackbean 4096 Feb  4 09:16 dir
+
+== chmod u-w dir ==
+dr-xr-xr-x 2 bblackbean bblackbean 4096 Feb  4 09:16 dir
+
+== touch (expect fail) ==
+
+== restore u+w ==
+total 0
+-rw-r--r-- 1 bblackbean bblackbean 0 Feb  4 09:22 new.txt

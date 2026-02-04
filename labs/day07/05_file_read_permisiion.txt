@@ -1,0 +1,12 @@
+== before ==
+-rw-r----- 1 bblackbean bblackbean 6 Feb  4 08:30 file.txt
+
+== chmod u-r ==
+--w-r----- 1 bblackbean bblackbean 6 Feb  4 08:30 file.txt
+
+== cat (expect fail) ==
+cat: file.txt: Permission denied
+cat 실패(정상): Permission denied
+
+== restore u+r ==
+hello
