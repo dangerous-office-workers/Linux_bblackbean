@@ -1,0 +1,14 @@
+== /tmp 권한 ==
+drwxrwxrwt 20 root root 4096  3월  7 19:02 /tmp
+
+== tmp_test 권한 ==
+drwxrwxrwt 2 root root 4096  2월 28 16:39 /srv/tmp_test
+
+== ACL 테스트(현재 상태) ==
+# file: srv/acl_test/secret.txt
+# owner: bbluebean
+# group: labshare
+user::rw-
+group::---
+other::---
+
